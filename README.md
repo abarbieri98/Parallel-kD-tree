@@ -48,7 +48,7 @@ For the serial implementation the number of threads will not have any effect.
 ``` bash
 mpirun -np [number of processes] kd-tree_MPI.x [number of points]
 ```
-As explained in the report, MPI will only allow the use of number of processes in powers of two (2,4,8, ..., $2^N$).
+As explained in the report, MPI will only allows the use of number of processes in powers of two (2,4,8, ..., $2^N$).
 
 Furthermore, if all the three implementations are compiled one can use the `test.sh` script to test them, using the syntax
 
