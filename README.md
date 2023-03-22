@@ -1,6 +1,6 @@
 # A parallel implementation of k-D tree
 
-This repository the code implemented for Assignment 2 of the course of Foundations of High Performance Computing.
+This repository contains the code implemented for Assignment 2 of the course of Foundations of High Performance Computing.
 
 ## A general overview
 
